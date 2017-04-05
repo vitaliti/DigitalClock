@@ -1,0 +1,14 @@
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\bin\Debug\DigitalClock2.exe.config
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\MainWindow.g.cs
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\App.g.cs
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2_MarkupCompile.cache
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2_MarkupCompile.lref
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\bin\Debug\DigitalClock2.exe
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\bin\Debug\DigitalClock2.pdb
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\MainWindow.baml
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2.g.resources
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2.Properties.Resources.resources
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2.csproj.GenerateResource.Cache
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2.exe
+c:\users\vision\documents\visual studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2.pdb
+C:\Users\Vision\Documents\Visual Studio 2015\Projects\DigitalClock2\DigitalClock2\obj\Debug\DigitalClock2.csprojResolveAssemblyReference.cache
